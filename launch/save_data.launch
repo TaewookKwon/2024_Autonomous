@@ -1,0 +1,5 @@
+<launch>\
+    <node pkg="beginner_tutorials" type="object_info.py" name="object_info"  />
+    <node pkg="beginner_tutorials" type="save_learning_data.py" name="save_data"  />
+</launch>
+

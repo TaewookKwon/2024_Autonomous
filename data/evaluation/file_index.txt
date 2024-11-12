@@ -1,0 +1,22 @@
+data1 : 임시 (테스트용)
+data2 : Scenario 1
+data3 : Scenario 2
+data4 : Scenario 3
+data5 : X
+data6 : Scenario 4
+data7 : X
+data8 : X
+data9 : Scenario 5, Lane 정보를 넣고 학습한 결과 1
+data10 : Lane vs noLane 비교, test1
+data11 : Lane vs noLane 비교, test2
+data12 : Lane vs noLane 비교, test3
+data13 : Lane vs noLane 비교, test4
+data14 : 데이터 추가, Lane vs noLane 비교, test1
+data15 : 데이터 추가, Lane vs noLane 비교, test2
+data16 : 데이터 추가, Lane vs noLane 비교, test3
+data17 : 데이터 추가, Lane vs noLane 비교, test4
+data18 : 데이터 추가, Lane vs Global Lane 비교, test1
+data19 : 데이터 추가, Lane vs Global Lane 비교, test2
+data20 : 데이터 추가, Lane vs Global Lane 비교, test3
+data21 : 데이터 추가, Lane vs Global Lane 비교, test4
+
